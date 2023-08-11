@@ -8,7 +8,8 @@ Standing - 2850 (95 x 30) <br />
 Walking - 2850 (95 x 30)
 
 # Features
-Each activity has two types of data hold-movement and touch
+Each activity has two types of data hold-movement and touch. Hold movements is collected using seven 3-dimensional motion sensors
+(i.e., the accelerometer, the high-pass sensor, the low-pass sensor, the orientation sensor, the gravity sensor, the gyroscope, and the magnetometer) and touch data is collected using touchscreen sensor.
 
 Sensor: 112 Features and 113th Column is label<br />
 Touch: 30 features and 31st Column is label
