@@ -1,4 +1,4 @@
-# HoldandTapDataset
+# Hold and Tap Dataset
 
 Number of users = 95
 
