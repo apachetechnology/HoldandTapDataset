@@ -15,6 +15,8 @@ Sensor: 112 Features and 113th Column is label<br />
 Touch: 30 features and 31st Column is label
 
 # Citations
+Please cite our following papers to use the dataset.
+
 @article{buriro2021risk,<br />
   title={Risk-driven behavioral biometric-based one-shot-cum-continuous user authentication scheme},<br />
   author={Buriro, Attaullah and Gupta, Sandeep and Yautsiukhin, Artsiom and Crispo, Bruno},<br />
