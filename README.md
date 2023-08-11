@@ -4,7 +4,9 @@ Number of users = 95
 
 # Activities
 Sitting - 2850 (95 x 30)   
+
 Standing - 2850 (95 x 30)
+
 Walking - 2850 (95 x 30)
 
 # Features
