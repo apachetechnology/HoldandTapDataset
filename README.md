@@ -12,7 +12,7 @@ Each activity has two types of data hold-movement and touch. Hold movements is c
 (i.e., the accelerometer, the high-pass sensor, the low-pass sensor, the orientation sensor, the gravity sensor, the gyroscope, and the magnetometer) and touch data is collected using touchscreen sensor.
 
 Sensor: 112 Features and 113th Column is label<br />
-**Description:** 4 statistical features, namely Mean (), Standard Deviation (), Skewness (s), and Kurtosis (k), that gives 16 statistical features
+**Description:** 4 statistical features, namely Mean (μ), Standard Deviation (σ), Skewness (s), and Kurtosis (k), that gives 16 statistical features
 per sensor. Thus, a total of 16 features are obtained from a sensor. Since there are seven sensors in total so 112 satistical features are obtained.
 
 ![image](https://github.com/apachetechnology/HoldandTapDataset/assets/26899308/b2b5f158-d301-4fd5-ae64-10672f1ed1ea)
