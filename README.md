@@ -20,6 +20,8 @@ per sensor. Thus, a total of 16 features are obtained from a sensor. Since there
 Touch: 30 features and 31st Column is label<br />
 **Description:** Touch-typing features consist of 8 Type0 (timing difference between each key release and key press), 7 Type1 (timing difference a key press and previous key release, 7 Type2 (timing difference two successive keys release), 7 Type3 (timing difference two successive keys press), and 1 Type4 (timing difference between last and first key press). Thus, 30 touch-typing features from the 8-digit random-text entry are extracted.
 
+![image](https://github.com/apachetechnology/HoldandTapDataset/assets/26899308/7c7f5839-dbdc-42c2-8bc7-f236533e1013)
+
 # Citations
 Please cite our following papers to use the dataset.
 
